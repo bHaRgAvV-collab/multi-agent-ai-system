@@ -1,0 +1,27 @@
+[
+    {
+        "day": "Day 1",
+        "task": "Arrays + Strings",
+        "time": "9:00 - 11:00"
+    },
+    {
+        "day": "Day 2",
+        "task": "Linked Lists + Stacks",
+        "time": "11:00 - 13:00"
+    },
+    {
+        "day": "Day 3",
+        "task": "Trees + Graphs",
+        "time": "13:00 - 15:00"
+    },
+    {
+        "day": "Day 4",
+        "task": "Dynamic Programming",
+        "time": "15:00 - 17:00"
+    },
+    {
+        "day": "Day 5",
+        "task": "Mock Interviews",
+        "time": "17:00 - 19:00"
+    }
+]
